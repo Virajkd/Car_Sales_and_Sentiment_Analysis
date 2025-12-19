@@ -13,5 +13,6 @@ Steps:
                          Hyperparameter tuning was performed to get better accuracies.
   6. Sales Analysis and Time-Series Forecasting- ARIMA and SARIMA were used to predict and analyse sales data and its trend on factors such as series, brand, city, fuel, etc.
   7. Clustering- 4 clusters were formed to compare sales and sentiments relation and draw insights on its interconnectivity.
-  8. Results- Overall all the results we got from the above steps were visulalized and presented to tell the current information we gain from the data, its future prediction and based on that we were able to draw business conclusions. 
+     
+Results: Overall all the results we got from the above steps were visulalized and presented to tell the current information we gain from the data, its future prediction and based on that we were able to draw business conclusions. 
                          
